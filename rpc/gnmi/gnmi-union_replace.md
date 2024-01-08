@@ -254,7 +254,7 @@ delete operation is unsupported.
 A `replace` operation for path based native origins should be performed in the
 same way as OpenConfig as defined in gNMI Specification section 3.4.
 
-## 5 Device behavior for mixed native/CLI OC origin `SetRequests`
+## 5. Device behavior for mixed native/CLI OC origin `SetRequests`
 
 ### 5.1 Objective
 
@@ -432,7 +432,7 @@ should apply.
 
 Figure 1 - union_replace state machine
 
-## 6 Examples
+## 6. Examples
 
 ### 6.1 Examples of expected configuration work flows
 
